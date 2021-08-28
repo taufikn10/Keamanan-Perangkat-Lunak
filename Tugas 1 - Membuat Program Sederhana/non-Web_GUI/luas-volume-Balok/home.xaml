@@ -1,0 +1,80 @@
+﻿<Page x:Class="luas_volume_Balok.home"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:luas_volume_Balok"
+      mc:Ignorable="d" 
+      Height="650" Width="400"
+      Title="home">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFC3C3C3" Offset="0"/>
+                <GradientStop Color="White" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"/>
+            <RowDefinition Height="57*"/>
+        </Grid.RowDefinitions>
+        <Image Source="img/Path.png" Margin="309.6,-108.6,-79.2,483" RenderTransformOrigin="0.5,0.5" Grid.RowSpan="2">
+            <Image.Effect>
+                <DropShadowEffect BlurRadius="2"/>
+            </Image.Effect>
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="37.309"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image Source="img/Path.png" Margin="-100.366,-102.241,330.048,476.641" RenderTransformOrigin="0.5,0.5" Grid.RowSpan="2">
+            <Image.Effect>
+                <DropShadowEffect BlurRadius="2"/>
+            </Image.Effect>
+            <Image.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-47.181"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Image.RenderTransform>
+        </Image>
+        <Image Source="img/data-analysis.png" Margin="44.1,-39.2,56.7,259.85" Grid.RowSpan="2">
+            <Image.Effect>
+                <DropShadowEffect BlurRadius="2"/>
+            </Image.Effect>
+        </Image>
+        <Path Data="M-58.599837,542.40047 C75.000163,568.00047 -8.6998368,585.10047 74.500163,567.50047 157.70016,549.90047 111.30016,525.10043 160.90016,549.90049 210.50016,574.70054 102.50016,581.90059 229.70016,557.90043 356.90016,533.90028 333.05625,505.05297 356.90015,533.90028 412.66052,601.36142 876.90009,601.90077 408.90013,604.30079 -59.099837,606.70081 -65.49984,676.30141 -59.899837,606.70082 -54.299835,537.10023 -55.10006,537.90029 -55.10006,537.90029" HorizontalAlignment="Left" Height="116.719" Margin="-37.993,486.626,-239.641,-33.345" Stretch="Fill" VerticalAlignment="Top" Width="677.634" Grid.Row="1">
+            <Path.Effect>
+                <DropShadowEffect BlurRadius="2"/>
+            </Path.Effect>
+            <Path.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black" Offset="0"/>
+                    <GradientStop Color="#FFFF2A2A" Offset="1"/>
+                </LinearGradientBrush>
+            </Path.Fill>
+        </Path>
+        <TextBlock HorizontalAlignment="Left" Height="42.173" Margin="55.1,20.827,0,0" TextWrapping="Wrap" Text="Tugas 1" VerticalAlignment="Top" Width="288.2" TextAlignment="Center" FontFamily="Arial Black" FontSize="20" FontWeight="Bold" Foreground="Black"/>
+        <TextBlock HorizontalAlignment="Left" Height="21.383" Margin="38.067,250.35,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="316.967" FontFamily="Arial" FontSize="14"><Run FontWeight="Bold" Text="Membuat program komputer sederhana untuk :"/><LineBreak/><LineBreak/><Run/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Height="52.8" Margin="38.067,276.733,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="310.567" FontFamily="Arial" RenderTransformOrigin="0.777,0.865" TextAlignment="Center"><Run Text="1. Hitung nilai mahasiswa Unesa dan konversi menjadi nilai huruf"/><LineBreak/><Run Text="2. Hitung luas dan volume balok"/></TextBlock>
+        <Button Content="Konversi Nilai" HorizontalAlignment="Left" Height="30" Margin="138.974,391.333,0,0" VerticalAlignment="Top" Width="102.967" Background="#FFDFC340" Foreground="Black" FontFamily="Arial" BorderBrush="{x:Null}" Cursor="Hand" FontWeight="Bold" FontSize="14" Grid.Row="1" Click="Button_Click_1">
+            <Button.Effect>
+                <DropShadowEffect Color="#FF8D7F7F" BlurRadius="1" Opacity="0.5"/>
+            </Button.Effect>
+        </Button>
+        <Button Content="Luas dan Volume Balok" HorizontalAlignment="Left" Height="30" Margin="108.341,439.96,0,0" VerticalAlignment="Top" Width="168.293" Background="#FF4143B4" Foreground="Black" FontFamily="Arial" BorderBrush="{x:Null}" Cursor="Hand" FontWeight="Bold" FontSize="14" Grid.Row="1" Click="Button_Click">
+            <Button.Effect>
+                <DropShadowEffect Color="#FF8D7F7F" BlurRadius="1" Opacity="0.5"/>
+            </Button.Effect>
+        </Button>
+        <TextBlock HorizontalAlignment="Left" Height="18.4" Margin="147.141,350,0,0" Grid.Row="1" TextWrapping="Wrap" Text="GET STARTED" VerticalAlignment="Top" Width="92.8" TextAlignment="Center" FontFamily="Tahoma" FontWeight="Bold"/>
+    </Grid>
+
+</Page>
