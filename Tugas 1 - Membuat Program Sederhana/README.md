@@ -25,7 +25,7 @@ Beberapa kriteria:
 ![Luas dan Volume](https://user-images.githubusercontent.com/56226681/131212074-d3cacb3c-4e06-43ba-b6f7-d38db1c01ccd.png)
 
 <b> Tampilan Untuk non-Web </b>
-1. halaman Beranda <br>
+1. Halaman Beranda <br>
 ![Beranda](https://user-images.githubusercontent.com/56226681/131212094-9261f8e2-5569-4a2c-afab-2f4cdf4a0815.png)
 
 2. Halaman Hitung nilai mahasiswa Unesa dan konversi menjadi nilai huruf <br>
