@@ -20,7 +20,7 @@ if (isset($_POST['luas'])) {
   $dua = 2*$panjang*$lebar;
   $tiga = 2*$lebar*$tinggi;
 
-  $luas_balok = 2*$panjang*$tinggi + 2*$panjang*$tinggi + 2*$lebar*$tinggi;
+  $luas_balok = 2*$panjang*$tinggi + 2*$panjang*$lebar + 2*$lebar*$tinggi;
 }
 
 #Volume
