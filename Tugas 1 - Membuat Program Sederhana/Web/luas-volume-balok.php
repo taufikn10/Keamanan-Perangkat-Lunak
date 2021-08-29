@@ -17,7 +17,7 @@ $luas_balok = @$_POST['luas'];
 if (isset($_POST['luas'])) {
 
   $satu = 2*$panjang*$tinggi;
-  $dua = 2*$panjang*$tinggi;
+  $dua = 2*$panjang*$lebar;
   $tiga = 2*$lebar*$tinggi;
 
   $luas_balok = 2*$panjang*$tinggi + 2*$panjang*$tinggi + 2*$lebar*$tinggi;
