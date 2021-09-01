@@ -141,11 +141,14 @@ $grade = @$_POST['grade'];
                   maxlength="5" min="0" max="100" step="any">
               </div>
               <div class="row">
-                <div class="col-6">
+                <div class="col-4">
                   <button class="btn btn-primary container" name="tampilkan">Tampilkan Nilai</button>
                 </div>
-                <div class="col-6">
-                  <button class="btn btn-danger container" name="reset" type="reset">Reset</button>
+                <div class="col-4">
+                  <button class="btn btn-danger container" name="reset" type="reset">Hapus</button>
+                </div>
+                <div class="col-4">
+                  <button onClick="window.location.reload();" class="btn btn-warning container">Refresh Page</button>
                 </div>
                 <div class="container mt-3" style="width: 100px;">
                   <a class="btn btn-info" role="button" href="index.php">Kembali</a>

@@ -19,17 +19,20 @@ Beberapa kriteria:
 
  
 2. Halaman Hitung nilai mahasiswa Unesa dan konversi menjadi nilai huruf <br>
-![Konversi](https://user-images.githubusercontent.com/56226681/131245714-e6553f92-3dd1-491d-9719-ecdb0ebccbb9.png)
+![Konversi](https://user-images.githubusercontent.com/56226681/131594194-8f2de092-f482-4b9c-8c5d-ae0aec751ebc.png)
+
 
 3. Halaman Hitung luas dan volume balok <br>
-![Luas dan Volume](https://user-images.githubusercontent.com/56226681/131212074-d3cacb3c-4e06-43ba-b6f7-d38db1c01ccd.png)
+![Luas dan Volume](https://user-images.githubusercontent.com/56226681/131594037-b7004ef7-8c63-4937-9ff5-2b812c2b1334.png)
+
 
 <b> Tampilan Untuk non-Web </b>
 1. Halaman Beranda <br>
 ![Beranda](https://user-images.githubusercontent.com/56226681/131212094-9261f8e2-5569-4a2c-afab-2f4cdf4a0815.png)
 
 2. Halaman Hitung nilai mahasiswa Unesa dan konversi menjadi nilai huruf <br>
-![Konversi Nilai](https://user-images.githubusercontent.com/56226681/131245717-175c08b6-4453-47cd-87f5-6618a2f4a27c.png)
+![Konversimob (1)](https://user-images.githubusercontent.com/56226681/131604419-ef295d96-c853-4117-91f1-5b76d52545f9.png)
+
 
 3. Hitung luas dan volume balok <br>
 ![Luas   volume](https://user-images.githubusercontent.com/56226681/131212112-574e1ec5-e6a1-46b2-877d-d2be3194228a.png)
