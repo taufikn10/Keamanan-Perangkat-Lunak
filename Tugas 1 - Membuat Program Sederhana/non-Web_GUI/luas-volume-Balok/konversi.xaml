@@ -64,7 +64,7 @@
                 </TextBox.Effect>
             </TextBox>
             <Label Content="Mata Kuliah" HorizontalAlignment="Left" Margin="91.374,185.773,0,0" VerticalAlignment="Top" Width="101.893" FontFamily="Verdana" FontWeight="Bold" FontSize="13"/>
-            <TextBox x:Name="txtMatkul" HorizontalAlignment="Left" Height="25" Margin="97.374,211.573,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="182" FontSize="14" Background="White" BorderBrush="Black" SelectionBrush="#FFFF2A2A" MaxLength="22">
+            <TextBox x:Name="txtMatkul" HorizontalAlignment="Left" Height="25" Margin="50.567,211.573,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="278.6" FontSize="14" Background="White" BorderBrush="Black" SelectionBrush="#FFFF2A2A" MaxLength="44">
                 <TextBox.Effect>
                     <BlurEffect Radius="1.5"/>
                 </TextBox.Effect>
@@ -116,7 +116,7 @@
                 </Label.Effect>
             </Label>
             <Label Content="Mata Kuliah" HorizontalAlignment="Left" Margin="91.374,596.426,0,0" VerticalAlignment="Top" Width="101.893" FontFamily="Verdana" FontWeight="Bold" FontSize="13"/>
-            <Label x:Name="matkul" Content="" HorizontalAlignment="Left" Margin="98.374,622.226,0,0" VerticalAlignment="Top" Width="182" FontSize="14" Background="White">
+            <Label x:Name="matkul" Content="" HorizontalAlignment="Left" Margin="50.567,622.226,0,0" VerticalAlignment="Top" Width="278.6" FontSize="14" Background="White">
                 <Label.Effect>
                     <BlurEffect Radius="1"/>
                 </Label.Effect>
