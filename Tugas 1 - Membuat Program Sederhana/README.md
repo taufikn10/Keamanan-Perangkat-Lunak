@@ -19,7 +19,7 @@ Beberapa kriteria:
 
  
 2. Halaman Hitung nilai mahasiswa Unesa dan konversi menjadi nilai huruf <br>
-![Konversi](https://user-images.githubusercontent.com/56226681/131594030-de7944d3-952c-490d-8164-82bccf8f2053.png)
+![Konversi](https://user-images.githubusercontent.com/56226681/131594194-8f2de092-f482-4b9c-8c5d-ae0aec751ebc.png)
 
 
 3. Halaman Hitung luas dan volume balok <br>
