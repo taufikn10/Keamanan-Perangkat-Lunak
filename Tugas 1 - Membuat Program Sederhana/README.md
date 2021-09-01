@@ -31,7 +31,7 @@ Beberapa kriteria:
 ![Beranda](https://user-images.githubusercontent.com/56226681/131212094-9261f8e2-5569-4a2c-afab-2f4cdf4a0815.png)
 
 2. Halaman Hitung nilai mahasiswa Unesa dan konversi menjadi nilai huruf <br>
-![Konversimob](https://user-images.githubusercontent.com/56226681/131604097-6b09a84d-921a-4b16-9ba1-35b56a1d328e.png)
+![Konversimob](https://user-images.githubusercontent.com/56226681/131604334-84160fd3-c47e-4beb-bb84-96d2397b0d79.png)
 
 
 3. Hitung luas dan volume balok <br>
