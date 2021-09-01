@@ -1,0 +1,42 @@
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\bin\Debug\luas-volume-Balok.exe.config
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\bin\Debug\luas-volume-Balok.exe
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\bin\Debug\luas-volume-Balok.pdb
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas-volume-Balok.csproj.AssemblyReference.cache
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas.g.cs
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\obj\Debug\MainWindow.g.cs
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\obj\Debug\App.g.cs
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas-volume-Balok_MarkupCompile.cache
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas-volume-Balok_MarkupCompile.lref
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\obj\Debug\MainWindow.baml
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas.baml
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas-volume-Balok.g.resources
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas_volume_Balok.Properties.Resources.resources
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas-volume-Balok.csproj.GenerateResource.cache
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas-volume-Balok.csproj.CoreCompileInputs.cache
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas-volume-Balok.exe
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas-volume-Balok.pdb
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\obj\Debug\Simple Styles.baml
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\Visual Studio Comunity\luas-volume-Balok\luas-volume-Balok\obj\Debug\App.baml
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\bin\Debug\luas-volume-Balok.exe.config
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\bin\Debug\luas-volume-Balok.exe
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\bin\Debug\luas-volume-Balok.pdb
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\Simple Styles.baml
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas.g.cs
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\MainWindow.g.cs
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\App.g.cs
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas-volume-Balok_MarkupCompile.cache
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas-volume-Balok_MarkupCompile.lref
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\App.baml
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas.baml
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\MainWindow.baml
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas-volume-Balok.g.resources
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas_volume_Balok.Properties.Resources.resources
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas-volume-Balok.csproj.GenerateResource.cache
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas-volume-Balok.csproj.CoreCompileInputs.cache
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas-volume-Balok.exe
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas-volume-Balok.pdb
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\home.g.cs
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\konversi.g.cs
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\home.baml
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\konversi.baml
+D:\College Student\Kumpulan Materi SMT\Materi SMT 5\4 Prak Keamanan Perangkat Lunak\non-web\luas-volume-Balok\luas-volume-Balok\obj\Debug\luas-volume-Balok.csproj.AssemblyReference.cache
