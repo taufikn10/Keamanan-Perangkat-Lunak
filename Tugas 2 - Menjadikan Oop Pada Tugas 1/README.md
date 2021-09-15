@@ -24,7 +24,7 @@ Beberapa kriteria:
 ![LuasVolume](https://user-images.githubusercontent.com/56226681/131652603-3b37e9f0-fb93-4b62-998f-18fcb8e55ffc.png)
 
 
-<b> Tampilan Untuk non-Web </b>
+<b> Tampilan Untuk non-Web-GUI</b>
 1. Halaman Beranda <br>
 ![Beranda](https://user-images.githubusercontent.com/56226681/131212094-9261f8e2-5569-4a2c-afab-2f4cdf4a0815.png)
 
@@ -33,3 +33,11 @@ Beberapa kriteria:
 
 3. Hitung luas dan volume balok <br>
 ![Luasvolumemob](https://user-images.githubusercontent.com/56226681/131652683-0544727c-3c8a-4810-a68b-c89af12f691b.png)
+
+<b> Tampilan Untuk non-Web-Console</b>
+1. Menghitung Luas dan Volume Balok <br>
+![Screenshot (13)](https://user-images.githubusercontent.com/56226681/133451685-7ee55357-ba2e-40c0-9df1-1d2b98b0b7a0.png)
+2. Menghitung Nilai mahasiswa unesa dan konversi menjadi huruf <br>
+![Screenshot (14)](https://user-images.githubusercontent.com/56226681/133451694-8550e2e3-8bc1-4c44-935f-3881d4212105.png)
+
+
