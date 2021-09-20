@@ -1,4 +1,4 @@
-<b> TUGAS  </b>
+<b> TUGAS 2 </b>
 
 Buat program komputer sederhana Oop untuk:
 1. Hitung nilai mahasiswa Unesa dan konversi menjadi nilai huruf
