@@ -1,4 +1,4 @@
-<b> Tugas 3 <b>
+<b> Tugas 3 </b>
 
 TODO
 =====
@@ -11,15 +11,12 @@ TODO
 7. Pastikan pengguna tidak dapat melakukan akses langsung melalui alamat URL tanpa melalui proses login.
 
 
-<p align="center">
-  <img src="![Index](https://user-images.githubusercontent.com/56226681/134016032-670bede4-4f33-469e-8a65-cf045ec23d55.png)">
-</p>
-
-
-<p align="center">
-  <img src="![Registrasi](https://user-images.githubusercontent.com/56226681/134015603-7c63c52a-62c8-48ea-9f55-43771372f656.png)">
-</p>
+ <b> 1.  Halaman Registrasi </b> 
+  ![Registrasi](https://user-images.githubusercontent.com/56226681/134016986-e9dfc2f1-6cad-466b-8186-639517c4591d.png)
   
-<p align="center">
-  <img src="![Index](https://user-images.githubusercontent.com/56226681/134015609-90ba54fc-a448-4655-af96-98a638c3bc63.png)">
-</p>
+ <b> 2.  Halaman Login </b> 
+  ![Login](https://user-images.githubusercontent.com/56226681/134016999-3ac28864-36f3-4952-8022-7f7c45d4ea32.png)
+ 
+ <b> 3. Halamnan Index </b> 
+  ![Index](https://user-images.githubusercontent.com/56226681/134017025-f5d9ecb7-48bb-48f4-8c04-e171b057b786.png)
+
