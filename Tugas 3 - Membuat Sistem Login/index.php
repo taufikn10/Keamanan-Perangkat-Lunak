@@ -15,7 +15,7 @@ if( !isset ($_SESSION["login"])) {
  <html lang="en">
  <head>
  	<meta charset="UTF-8">
- 	<title>amazing section</title>
+ 	<title>Index</title>
  	
  	<link rel="stylesheet" href="asset/bootstrap/css/bootstrap.css">
  	

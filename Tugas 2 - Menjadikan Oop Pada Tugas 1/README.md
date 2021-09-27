@@ -1,6 +1,6 @@
-<b> TUGAS 1 </b>
+<b> TUGAS 2 </b>
 
-Buat program komputer sederhana untuk:
+Buat program komputer sederhana Oop untuk:
 1. Hitung nilai mahasiswa Unesa dan konversi menjadi nilai huruf
 2. Hitung luas dan volume balok
 
