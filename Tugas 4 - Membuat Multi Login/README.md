@@ -1,7 +1,10 @@
-# Keamanan-Perangkat-Lunak
+TODO - 23 SEPTEMBER 2021
+=======================
+Mengembangkan aplikasi login yang telah dibuat sebelumnya dengan fitur sebagai berikut:
+1. Tambahkan fitur level akses login, misal: level dosen, mhs, dan staff. Setiap level memiliki dashboard yang berbeda.
+2. Menambahkan fitur log yang mencatat semua proses login
+3. Menambahkan fitur session expire yang memaksa pengguna untuk melakukan login lagi ketika lama tidak aktivitas.
+4. Menambahkan fitur aktivasi melalui email dalam proses registrasi
+5. Menambahkan fitur ganti/reset password
 
-<b> Perangkat lunak keamanan komputer </b> atau <b> perangkat lunak keamanan siber </b> adalah segala bentuk program komputer yang dirancang untuk memperkuat keamanan informasi. Pertahanan komputer terhadap pembobolan dan penggunaan sumber daya tanpa izin disebut keamanan komputer. Adapun pertahanan jaringan komputer disebut keamanan jaringan. 
 
-<p align="center">
-  <img src="https://miro.medium.com/max/724/1*ZTGEGgHCIK5JK0KFL1sX6w.jpeg">
-</p>
