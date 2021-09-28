@@ -10,11 +10,11 @@ Mengembangkan aplikasi login yang telah dibuat sebelumnya dengan fitur sebagai b
 Berikut :
 
 1. Halaman Registrasi 
-![Registrasi](https://user-images.githubusercontent.com/56226681/135010912-f879054d-17c4-4f35-84f6-5364dcc9f405.png)
+![Registrasi](https://user-images.githubusercontent.com/56226681/135014643-a6fee727-36de-4785-a133-565a7746be40.png)
 Handling Registrasi
 ![Registrasi Handling](https://user-images.githubusercontent.com/56226681/135010939-39a777a8-3628-4cff-8a49-5d2d968e8a71.png)
 2. Halaman Login
-![Login](https://user-images.githubusercontent.com/56226681/135011036-3630334e-2eb0-4dcd-b688-02730020cab9.png)
+![Login](https://user-images.githubusercontent.com/56226681/135014657-8382ebd2-4a3a-45b2-a0e6-324ad12a65bf.png)
 Handling Login
 ![Handling Login](https://user-images.githubusercontent.com/56226681/135011067-7fafda8c-48e6-4dc8-82f0-ff6b34576bb3.png)
 3. Lupa Password
