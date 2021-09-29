@@ -18,7 +18,8 @@ require 'connection.php';
  
      $user = query("SELECT * FROM tb_users WHERE id_users = '$id_users' ")[0];
  }
-
+ // set timeout
+_timeout();
 ?>
 
 
