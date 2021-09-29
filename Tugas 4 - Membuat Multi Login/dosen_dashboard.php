@@ -17,7 +17,7 @@ if (!isset($_SESSION["Dosen"])) {
     }
     $user = query("SELECT * FROM tb_users WHERE id_users = '$id_users' ")[0];
 }
-
+ // set timeout
 _timeout();
 
 ?>
