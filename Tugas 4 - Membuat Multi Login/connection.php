@@ -282,4 +282,20 @@ function query($query)
     return $notif;
 }
 
+//session kedaluarsa
+function _timeout()
+{
+$waktuhabis = 2; 
+
+$waktuhabis = $waktuhabis * 30; 
+if (isset($_SESSION['session_mulai'])) {
+      $setting = time() - $_SESSION['session_mulai'];
+      if ($setting >= $waktuhabis) {
+          session_destroy();
+          header("Location: login.php");
+      }
+  }
+  $_SESSION['session_mulai'] = time();
+}
+
 ?>
